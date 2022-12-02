@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.fa7a80f9.css",
-    "main.js": "/portfolio/static/js/main.c678eb18.js",
-    "static/media/me.png": "/portfolio/static/media/me.a22ed95314f6376aa1ef.png",
-    "static/media/uw.png": "/portfolio/static/media/uw.4f899ab4e8198a3ba480.png",
-    "static/media/mymelo.gif": "/portfolio/static/media/mymelo.9f15c10c0e3bc1ae6b74.gif",
-    "static/media/bmo.png": "/portfolio/static/media/bmo.718007e93ca652c4a42a.png",
-    "static/media/fridgey.png": "/portfolio/static/media/fridgey.a1ff9a19d5bb129347ff.png",
-    "static/media/operate.png": "/portfolio/static/media/operate.19e5ea400bbc7be667d9.png",
-    "static/media/weether.png": "/portfolio/static/media/weether.bb26184306dafd9d29d2.png",
-    "static/media/resume.pdf": "/portfolio/static/media/resume.6bdaaab45f09824a46da.pdf",
-    "static/media/website.png": "/portfolio/static/media/website.60bb45c47a93110a5e67.png",
-    "static/media/assent.png": "/portfolio/static/media/assent.3c62e87ec22652eda83e.png",
-    "index.html": "/portfolio/index.html",
-    "main.fa7a80f9.css.map": "/portfolio/static/css/main.fa7a80f9.css.map",
-    "main.c678eb18.js.map": "/portfolio/static/js/main.c678eb18.js.map"
+    "main.css": "/static/css/main.bbe17a77.css",
+    "main.js": "/static/js/main.3dbb738d.js",
+    "static/media/me.png": "/static/media/me.a22ed95314f6376aa1ef.png",
+    "static/media/uw.png": "/static/media/uw.4f899ab4e8198a3ba480.png",
+    "static/media/mymelo.gif": "/static/media/mymelo.9f15c10c0e3bc1ae6b74.gif",
+    "static/media/bmo.png": "/static/media/bmo.718007e93ca652c4a42a.png",
+    "static/media/fridgey.png": "/static/media/fridgey.a1ff9a19d5bb129347ff.png",
+    "static/media/operate.png": "/static/media/operate.19e5ea400bbc7be667d9.png",
+    "static/media/weether.png": "/static/media/weether.bb26184306dafd9d29d2.png",
+    "static/media/resume.pdf": "/static/media/resume.6bdaaab45f09824a46da.pdf",
+    "static/media/website.png": "/static/media/website.60bb45c47a93110a5e67.png",
+    "static/media/assent.png": "/static/media/assent.3c62e87ec22652eda83e.png",
+    "index.html": "/index.html",
+    "main.bbe17a77.css.map": "/static/css/main.bbe17a77.css.map",
+    "main.3dbb738d.js.map": "/static/js/main.3dbb738d.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa7a80f9.css",
-    "static/js/main.c678eb18.js"
+    "static/css/main.bbe17a77.css",
+    "static/js/main.3dbb738d.js"
   ]
 }
